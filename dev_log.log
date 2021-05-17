@@ -1,0 +1,208 @@
+2021-05-13 16:34:22,399 - test - INFO - Add user success , mes: uer01
+2021-05-13 16:35:39,050 - test - INFO - Add user success , mes: uer02
+2021-05-13 16:36:06,939 - test - INFO - Add user success , mes: uer02
+2021-05-13 16:36:07,768 - test - INFO - Add user success , mes: uer02
+2021-05-13 16:36:15,152 - test - INFO - Add user success , mes: uer02
+2021-05-13 16:37:21,893 - test - INFO - Add user success , mes: uer02
+2021-05-13 16:40:31,512 - test - INFO - Add user success , mes: uer02
+2021-05-13 16:42:36,939 - test - ERROR - test
+2021-05-13 16:42:37,555 - test - ERROR - test
+2021-05-13 16:42:38,108 - test - ERROR - test
+2021-05-13 16:42:38,938 - test - ERROR - test
+2021-05-13 16:42:44,181 - test - ERROR - json has no name
+2021-05-13 16:42:45,029 - test - ERROR - json has no name
+2021-05-13 16:42:45,602 - test - ERROR - json has no name
+2021-05-13 16:44:00,713 - test - ERROR - json has no name
+2021-05-13 16:44:02,166 - test - ERROR - json has no name
+2021-05-13 16:44:02,694 - test - ERROR - json has no name
+2021-05-13 16:50:51,939 - test - ERROR - test
+2021-05-13 16:50:52,426 - test - ERROR - test
+2021-05-13 16:50:52,783 - test - ERROR - test
+2021-05-13 16:50:53,577 - test - ERROR - test
+2021-05-13 16:50:54,435 - test - ERROR - test
+2021-05-13 16:50:56,565 - test - ERROR - json has no name
+2021-05-13 16:50:57,882 - test - ERROR - json has no name
+2021-05-13 16:50:58,751 - test - ERROR - json has no name
+2021-05-13 16:50:59,703 - test - ERROR - json has no name
+2021-05-13 16:51:00,767 - test - ERROR - json has no name
+2021-05-13 16:51:01,783 - test - ERROR - json has no name
+2021-05-13 16:51:02,548 - test - ERROR - json has no name
+2021-05-13 16:51:08,678 - test - ERROR - json has no name
+2021-05-13 16:51:09,380 - test - ERROR - json has no name
+2021-05-13 16:51:09,910 - test - ERROR - json has no name
+2021-05-13 16:51:10,327 - test - ERROR - json has no name
+2021-05-13 16:51:10,709 - test - ERROR - json has no name
+2021-05-13 16:51:11,030 - test - ERROR - json has no name
+2021-05-13 16:51:11,482 - test - ERROR - json has no name
+2021-05-13 16:52:51,418 - test - ERROR - json has no name
+2021-05-13 16:53:02,142 - test - ERROR - test
+2021-05-13 16:53:02,720 - test - ERROR - test
+2021-05-13 16:53:03,374 - test - ERROR - test
+2021-05-13 16:53:04,000 - test - ERROR - test
+2021-05-13 16:53:04,646 - test - ERROR - test
+2021-05-13 16:53:08,505 - test - ERROR - json has no name
+2021-05-13 16:53:09,311 - test - ERROR - json has no name
+2021-05-13 16:53:09,923 - test - ERROR - json has no name
+2021-05-13 16:53:10,528 - test - ERROR - json has no name
+2021-05-13 16:53:11,107 - test - ERROR - json has no name
+2021-05-13 16:53:11,776 - test - ERROR - json has no name
+2021-05-13 16:53:12,711 - test - ERROR - json has no name
+2021-05-13 16:53:13,674 - test - ERROR - json has no name
+2021-05-13 17:48:08,697 - test - INFO - ImmutableMultiDict([]) - 
+2021-05-13 17:48:08,697 - test - DEBUG - ImmutableMultiDict([]) - 
+2021-05-13 17:48:08,698 - test - ERROR - ImmutableMultiDict([]) - 
+2021-05-13 17:49:06,664 - test - INFO - http://127.0.0.1:5000/users - 
+2021-05-13 17:49:06,665 - test - DEBUG - ImmutableMultiDict([]) - 
+2021-05-13 17:49:06,666 - test - ERROR - ImmutableMultiDict([]) - 
+2021-05-13 17:49:13,989 - test - INFO - http://127.0.0.1:5000/users - 
+2021-05-13 17:49:13,989 - test - DEBUG - ImmutableMultiDict([]) - 
+2021-05-13 17:49:13,990 - test - ERROR - ImmutableMultiDict([]) - 
+2021-05-13 17:49:15,255 - test - INFO - http://127.0.0.1:5000/users - 
+2021-05-13 17:49:15,256 - test - DEBUG - ImmutableMultiDict([]) - 
+2021-05-13 17:49:15,257 - test - ERROR - ImmutableMultiDict([]) - 
+2021-05-13 17:49:16,444 - test - INFO - http://127.0.0.1:5000/users - 
+2021-05-13 17:49:16,444 - test - DEBUG - ImmutableMultiDict([]) - 
+2021-05-13 17:49:16,445 - test - ERROR - ImmutableMultiDict([]) - 
+2021-05-13 17:49:17,826 - test - INFO - http://127.0.0.1:5000/users - 
+2021-05-13 17:49:17,827 - test - DEBUG - ImmutableMultiDict([]) - 
+2021-05-13 17:49:17,828 - test - ERROR - ImmutableMultiDict([]) - 
+2021-05-13 17:50:18,875 - test - DEBUG - <Request 'http://127.0.0.1:5000/users' [POST]> - 
+2021-05-13 17:50:18,907 - test - INFO - Add user success , mes: uer02 - 
+2021-05-13 17:50:20,057 - test - DEBUG - <Request 'http://127.0.0.1:5000/users' [POST]> - 
+2021-05-13 17:50:20,067 - test - INFO - Add user success , mes: uer02 - 
+2021-05-13 17:51:24,715 - test - DEBUG - <Request 'http://127.0.0.1:5000/users' [POST]>
+2021-05-13 17:51:24,762 - test - INFO - Add user success , mes: uer02
+2021-05-13 17:51:35,588 - test - DEBUG - <Request 'http://127.0.0.1:5000/users' [POST]>
+2021-05-13 17:51:35,601 - test - INFO - Add user success , mes: uer02
+2021-05-13 17:51:46,679 - test - DEBUG - <Request 'http://127.0.0.1:5000/users' [POST]>
+2021-05-13 17:51:46,693 - test - INFO - Add user success , mes: uer02
+2021-05-13 17:52:42,068 - test - DEBUG --------- <Request 'http://127.0.0.1:5000/users' [POST]>
+2021-05-13 17:52:42,099 - test - INFO --------- Add user success , mes: uer02
+2021-05-13 17:52:44,419 - test - DEBUG --------- <Request 'http://127.0.0.1:5000/users' [POST]>
+2021-05-13 17:52:44,427 - test - INFO --------- Add user success , mes: uer02
+2021-05-13 17:53:27,425 - test - DEBUG --------- <Request 'http://127.0.0.1:5000/users' [POST]>
+2021-05-13 17:53:27,462 - test - INFO --------- Add user success , mes: {'_sa_instance_state': <sqlalchemy.orm.state.InstanceState object at 0x7f3a3056c880>, 'name': 'uer02', 'id': 53}
+2021-05-13 17:53:33,183 - test - DEBUG --------- <Request 'http://127.0.0.1:5000/users' [POST]>
+2021-05-13 17:53:33,196 - test - INFO --------- Add user success , mes: {'_sa_instance_state': <sqlalchemy.orm.state.InstanceState object at 0x7f3a305e28e0>, 'name': 'uer02', 'id': 54}
+2021-05-13 17:54:18,733 - test - DEBUG --------- <Request 'http://127.0.0.1:5000/users' [POST]>
+2021-05-13 17:54:18,768 - test - INFO --------- Add user success , mes: <User 55 uer02 []>
+2021-05-13 17:54:21,834 - test - DEBUG --------- <Request 'http://127.0.0.1:5000/users' [POST]>
+2021-05-13 17:54:21,843 - test - INFO --------- Add user success , mes: <User 56 uer02 []>
+2021-05-13 17:54:23,678 - test - DEBUG --------- <Request 'http://127.0.0.1:5000/users' [POST]>
+2021-05-13 17:54:23,692 - test - INFO --------- Add user success , mes: <User 57 uer02 []>
+2021-05-13 17:54:25,207 - test - DEBUG --------- <Request 'http://127.0.0.1:5000/users' [POST]>
+2021-05-13 17:54:25,216 - test - INFO --------- Add user success , mes: <User 58 uer02 []>
+2021-05-13 17:54:26,080 - test - DEBUG --------- <Request 'http://127.0.0.1:5000/users' [POST]>
+2021-05-13 17:54:26,094 - test - INFO --------- Add user success , mes: <User 59 uer02 []>
+2021-05-13 17:54:26,740 - test - DEBUG --------- <Request 'http://127.0.0.1:5000/users' [POST]>
+2021-05-13 17:54:26,752 - test - INFO --------- Add user success , mes: <User 60 uer02 []>
+2021-05-13 17:54:27,263 - test - DEBUG --------- <Request 'http://127.0.0.1:5000/users' [POST]>
+2021-05-13 17:54:27,278 - test - INFO --------- Add user success , mes: <User 61 uer02 []>
+2021-05-13 17:59:57,978 - test - DEBUG --------- ImmutableMultiDict([('name', 'root'), ('page', '2')])
+2021-05-13 18:00:31,062 - test - DEBUG --------- ImmutableMultiDict([('name', 'root'), ('page', '2')])
+2021-05-13 18:07:34,065 - test - DEBUG --------- ImmutableMultiDict([('name', 'root'), ('page', '2')])
+2021-05-13 18:09:35,837 - test - DEBUG --------- ImmutableMultiDict([('name', 'root'), ('page', '2')])
+2021-05-13 18:10:28,197 - test - DEBUG --------- ImmutableMultiDict([('name', 'root'), ('page', '2')])
+2021-05-13 18:10:30,837 - test - DEBUG --------- ImmutableMultiDict([('name', 'root'), ('page', '2')])
+2021-05-13 18:10:31,813 - test - DEBUG --------- ImmutableMultiDict([('name', 'root'), ('page', '2')])
+2021-05-13 18:10:32,669 - test - DEBUG --------- ImmutableMultiDict([('name', 'root'), ('page', '2')])
+2021-05-13 18:10:33,405 - test - DEBUG --------- ImmutableMultiDict([('name', 'root'), ('page', '2')])
+2021-05-13 18:10:34,169 - test - DEBUG --------- ImmutableMultiDict([('name', 'root'), ('page', '2')])
+2021-05-13 18:11:09,092 - test - DEBUG --------- ImmutableMultiDict([('name', 'root'), ('page', '2')])
+2021-05-13 18:11:10,347 - test - DEBUG --------- ImmutableMultiDict([('name', 'root'), ('page', '2')])
+2021-05-13 18:11:13,830 - test - DEBUG --------- ImmutableMultiDict([('name', 'root'), ('page', '2')])
+2021-05-13 18:11:27,836 - test - DEBUG --------- ImmutableMultiDict([('name', 'root'), ('page', '2')])
+2021-05-13 18:11:31,658 - test - DEBUG --------- ImmutableMultiDict([('name', 'root'), ('page', '2')])
+2021-05-13 18:11:32,990 - test - DEBUG --------- ImmutableMultiDict([('name', 'root'), ('page', '2')])
+2021-05-13 18:11:35,122 - test - DEBUG --------- ImmutableMultiDict([('name', 'root'), ('page', '2')])
+2021-05-13 18:11:39,348 - test - DEBUG --------- ImmutableMultiDict([('name', 'root'), ('page', '2')])
+2021-05-13 18:11:40,265 - test - DEBUG --------- ImmutableMultiDict([('name', 'root'), ('page', '2')])
+2021-05-13 18:12:04,841 - test - DEBUG --------- ImmutableMultiDict([('name', 'root'), ('page', '2')])
+2021-05-13 18:12:09,753 - test - DEBUG --------- ImmutableMultiDict([('name', 'root'), ('page', '2')])
+2021-05-13 18:12:11,398 - test - DEBUG --------- ImmutableMultiDict([('name', 'root'), ('page', '2')])
+2021-05-13 18:12:12,492 - test - DEBUG --------- ImmutableMultiDict([('name', 'root'), ('page', '2')])
+2021-05-13 18:12:13,381 - test - DEBUG --------- ImmutableMultiDict([('name', 'root'), ('page', '2')])
+2021-05-13 18:12:52,092 - test - DEBUG --------- ImmutableMultiDict([('name', 'root'), ('page', '2')])
+2021-05-13 18:12:53,808 - test - DEBUG --------- ImmutableMultiDict([('name', 'root'), ('page', '2')])
+2021-05-13 18:12:55,007 - test - DEBUG --------- ImmutableMultiDict([('name', 'root'), ('page', '2')])
+2021-05-13 18:12:55,872 - test - DEBUG --------- ImmutableMultiDict([('name', 'root'), ('page', '2')])
+2021-05-13 18:12:56,792 - test - DEBUG --------- ImmutableMultiDict([('name', 'root'), ('page', '2')])
+2021-05-13 18:12:59,308 - test - DEBUG --------- ImmutableMultiDict([('name', 'root'), ('page', '2')])
+2021-05-13 18:13:11,360 - test - DEBUG --------- ImmutableMultiDict([('name', 'root'), ('page', '2')])
+2021-05-13 18:13:15,928 - test - DEBUG --------- ImmutableMultiDict([('name', 'root'), ('page', '2')])
+2021-05-13 18:13:17,473 - test - DEBUG --------- ImmutableMultiDict([('name', 'root'), ('page', '2')])
+2021-05-13 18:13:18,558 - test - DEBUG --------- ImmutableMultiDict([('name', 'root'), ('page', '2')])
+2021-05-13 18:13:19,257 - test - DEBUG --------- ImmutableMultiDict([('name', 'root'), ('page', '2')])
+2021-05-13 18:14:43,326 - test - DEBUG --------- ImmutableMultiDict([])
+2021-05-13 18:15:41,899 - test - DEBUG --------- ImmutableMultiDict([('name', 'root'), ('page', '2')])
+2021-05-13 18:15:43,856 - test - DEBUG --------- ImmutableMultiDict([('name', 'root'), ('page', '2')])
+2021-05-13 18:16:07,464 - test - DEBUG --------- ImmutableMultiDict([('name', 'root'), ('page', '2')])
+2021-05-13 18:17:16,993 - test - DEBUG --------- ImmutableMultiDict([('name', 'root'), ('page', '2')])
+2021-05-13 18:17:46,290 - test - DEBUG --------- ImmutableMultiDict([('name', 'root'), ('page', '2')])
+2021-05-13 18:17:48,392 - test - DEBUG --------- ImmutableMultiDict([('name', 'root'), ('page', '2')])
+2021-05-13 18:18:05,338 - test - DEBUG --------- ImmutableMultiDict([('name', 'root'), ('page', '2')])
+2021-05-13 18:18:21,627 - test - DEBUG --------- ImmutableMultiDict([('name', 'root'), ('page', '2')])
+2021-05-13 18:19:14,574 - test - DEBUG --------- {'name': 'root', 'page': '2'}
+2021-05-13 18:19:16,493 - test - DEBUG --------- {'name': 'root', 'page': '2'}
+2021-05-13 18:22:25,925 - test - DEBUG --------- {'name': 'uer01', 'email': 'uer01@user.com', 'phone': '17777777777', 'orgIds': [328], 'login': 'uer01'}
+2021-05-13 18:22:25,964 - test - INFO --------- Add user success , mes: <User 2 uer01 []>
+2021-05-13 18:23:49,739 - test - DEBUG --------- {'name': 'uer01', 'email': 'uer01@user.com', 'phone': '17777777777', 'orgIds': [328], 'login': 'uer01'}
+2021-05-13 18:23:49,747 - test - INFO --------- Add user success , mes: <User 3 uer01 []>
+2021-05-13 18:23:54,979 - test - DEBUG --------- {'name': 'uer02', 'email': 'uer01@user.com', 'phone': '17777777777', 'orgIds': [328], 'login': 'uer01'}
+2021-05-13 18:23:54,993 - test - INFO --------- Add user success , mes: <User 4 uer02 []>
+2021-05-13 18:28:10,873 - test - DEBUG --------- {'name': 'uer02', 'email': 'uer01@user.com', 'phone': '17777777777', 'orgIds': [328], 'login': 'uer01'}
+2021-05-13 18:28:10,906 - test - INFO --------- Add user success , mes: <User 5 uer02 []>
+2021-05-13 18:28:14,708 - test - DEBUG --------- {'name': 'uer02', 'email': 'uer01@user.com', 'phone': '17777777777', 'orgIds': [328], 'login': 'uer01'}
+2021-05-13 18:28:14,718 - test - INFO --------- Add user success , mes: <User 6 uer02 []>
+2021-05-13 18:28:15,526 - test - DEBUG --------- {'name': 'uer02', 'email': 'uer01@user.com', 'phone': '17777777777', 'orgIds': [328], 'login': 'uer01'}
+2021-05-13 18:28:15,540 - test - INFO --------- Add user success , mes: <User 7 uer02 []>
+2021-05-13 18:28:16,224 - test - DEBUG --------- {'name': 'uer02', 'email': 'uer01@user.com', 'phone': '17777777777', 'orgIds': [328], 'login': 'uer01'}
+2021-05-13 18:28:16,234 - test - INFO --------- Add user success , mes: <User 8 uer02 []>
+2021-05-13 18:28:16,914 - test - DEBUG --------- {'name': 'uer02', 'email': 'uer01@user.com', 'phone': '17777777777', 'orgIds': [328], 'login': 'uer01'}
+2021-05-13 18:28:16,930 - test - INFO --------- Add user success , mes: <User 9 uer02 []>
+2021-05-13 18:39:04,001 - test - DEBUG --------- [{2, 'uer01'}, {3, 'uer01'}, {'uer02', 4}, {'uer02', 5}, {'uer02', 6}, {'uer02', 7}, {8, 'uer02'}, {9, 'uer02'}]
+2021-05-13 18:39:18,938 - test - DEBUG --------- [{'uer01', 2}, {'uer01', 3}, {4, 'uer02'}, {'uer02', 5}, {'uer02', 6}, {'uer02', 7}, {8, 'uer02'}, {9, 'uer02'}]
+2021-05-13 18:40:10,574 - test - DEBUG --------- [{2, 'uer01'}, {3, 'uer01'}, {4, 'uer02'}, {'uer02', 5}, {'uer02', 6}, {'uer02', 7}, {8, 'uer02'}, {9, 'uer02'}]
+2021-05-13 18:40:26,230 - test - DEBUG --------- [{2, 'uer01'}, {3, 'uer01'}, {'uer02', 4}, {'uer02', 5}, {'uer02', 6}, {'uer02', 7}, {8, 'uer02'}, {'uer02', 9}]
+2021-05-13 18:40:28,115 - test - DEBUG --------- [{2, 'uer01'}, {3, 'uer01'}, {'uer02', 4}, {'uer02', 5}, {'uer02', 6}, {'uer02', 7}, {8, 'uer02'}, {'uer02', 9}]
+2021-05-13 18:42:02,012 - test - DEBUG --------- [{'uer01', 2}, {'uer01', 3}, {4, 'uer02'}, {'uer02', 5}, {'uer02', 6}, {'uer02', 7}, {8, 'uer02'}, {9, 'uer02'}]
+2021-05-13 18:42:30,895 - test - DEBUG --------- [{2, 'uer01'}, {3, 'uer01'}, {'uer02', 4}, {'uer02', 5}, {'uer02', 6}, {'uer02', 7}, {8, 'uer02'}, {9, 'uer02'}]
+2021-05-13 18:43:34,268 - test - DEBUG --------- [{2, 'uer01'}, {3, 'uer01'}, {'uer02', 4}, {'uer02', 5}, {'uer02', 6}, {'uer02', 7}, {8, 'uer02'}, {9, 'uer02'}]
+2021-05-13 18:44:42,667 - test - DEBUG --------- [{'id': 2, 'user': 'uer01'}, {'id': 3, 'user': 'uer01'}, {'id': 4, 'user': 'uer02'}, {'id': 5, 'user': 'uer02'}, {'id': 6, 'user': 'uer02'}, {'id': 7, 'user': 'uer02'}, {'id': 8, 'user': 'uer02'}, {'id': 9, 'user': 'uer02'}]
+2021-05-13 18:44:46,658 - test - DEBUG --------- [{'id': 2, 'user': 'uer01'}, {'id': 3, 'user': 'uer01'}, {'id': 4, 'user': 'uer02'}, {'id': 5, 'user': 'uer02'}, {'id': 6, 'user': 'uer02'}, {'id': 7, 'user': 'uer02'}, {'id': 8, 'user': 'uer02'}, {'id': 9, 'user': 'uer02'}]
+2021-05-13 18:44:47,630 - test - DEBUG --------- [{'id': 2, 'user': 'uer01'}, {'id': 3, 'user': 'uer01'}, {'id': 4, 'user': 'uer02'}, {'id': 5, 'user': 'uer02'}, {'id': 6, 'user': 'uer02'}, {'id': 7, 'user': 'uer02'}, {'id': 8, 'user': 'uer02'}, {'id': 9, 'user': 'uer02'}]
+2021-05-13 18:45:16,867 - test - DEBUG --------- [{'id': 2, 'user': 'uer01'}, {'id': 3, 'user': 'uer01'}, {'id': 4, 'user': 'uer02'}, {'id': 5, 'user': 'uer02'}, {'id': 6, 'user': 'uer02'}, {'id': 7, 'user': 'uer02'}, {'id': 8, 'user': 'uer02'}, {'id': 9, 'user': 'uer02'}]
+2021-05-13 18:46:01,418 - test - DEBUG --------- [{'id': 2, 'user': 'uer01'}, {'id': 3, 'user': 'uer01'}, {'id': 4, 'user': 'uer02'}, {'id': 5, 'user': 'uer02'}, {'id': 6, 'user': 'uer02'}, {'id': 7, 'user': 'uer02'}, {'id': 8, 'user': 'uer02'}, {'id': 9, 'user': 'uer02'}]
+2021-05-13 18:58:10,367 - test - DEBUG --------- [{'id': 2, 'user': 'uer01'}, {'id': 3, 'user': 'uer01'}, {'id': 4, 'user': 'uer02'}, {'id': 5, 'user': 'uer02'}, {'id': 6, 'user': 'uer02'}, {'id': 7, 'user': 'uer02'}, {'id': 8, 'user': 'uer02'}, {'id': 9, 'user': 'uer02'}]
+ [{'id': 4, 'user': 'uer02'}, {'id': 5, 'user': 'uer02'}]
+2021-05-13 18:58:30,386 - test - DEBUG --------- [{'id': 2, 'user': 'uer01'}, {'id': 3, 'user': 'uer01'}, {'id': 4, 'user': 'uer02'}, {'id': 5, 'user': 'uer02'}, {'id': 6, 'user': 'uer02'}, {'id': 7, 'user': 'uer02'}, {'id': 8, 'user': 'uer02'}, {'id': 9, 'user': 'uer02'}]
+ [{'id': 5, 'user': 'uer02'}, {'id': 6, 'user': 'uer02'}, {'id': 7, 'user': 'uer02'}]
+2021-05-13 18:59:11,119 - test - DEBUG --------- [{'id': 2, 'user': 'uer01'}, {'id': 3, 'user': 'uer01'}, {'id': 4, 'user': 'uer02'}, {'id': 5, 'user': 'uer02'}, {'id': 6, 'user': 'uer02'}, {'id': 7, 'user': 'uer02'}, {'id': 8, 'user': 'uer02'}, {'id': 9, 'user': 'uer02'}]
+ [{'id': 4, 'user': 'uer02'}, {'id': 5, 'user': 'uer02'}, {'id': 6, 'user': 'uer02'}]
+2021-05-13 19:01:46,892 - test - DEBUG --------- [{'id': 2, 'user': 'uer01'}, {'id': 3, 'user': 'uer01'}, {'id': 4, 'user': 'uer02'}, {'id': 5, 'user': 'uer02'}, {'id': 6, 'user': 'uer02'}, {'id': 7, 'user': 'uer02'}, {'id': 8, 'user': 'uer02'}, {'id': 9, 'user': 'uer02'}]
+ [{'id': 2, 'user': 'uer01'}, {'id': 3, 'user': 'uer01'}]
+2021-05-13 19:01:59,045 - test - DEBUG --------- [{'id': 2, 'user': 'uer01'}, {'id': 3, 'user': 'uer01'}, {'id': 4, 'user': 'uer02'}, {'id': 5, 'user': 'uer02'}, {'id': 6, 'user': 'uer02'}, {'id': 7, 'user': 'uer02'}, {'id': 8, 'user': 'uer02'}, {'id': 9, 'user': 'uer02'}]
+ [{'id': 8, 'user': 'uer02'}, {'id': 9, 'user': 'uer02'}]
+2021-05-13 19:02:45,397 - test - DEBUG --------- [{'id': 2, 'user': 'uer01'}, {'id': 3, 'user': 'uer01'}, {'id': 4, 'user': 'uer02'}, {'id': 5, 'user': 'uer02'}, {'id': 6, 'user': 'uer02'}, {'id': 7, 'user': 'uer02'}, {'id': 8, 'user': 'uer02'}, {'id': 9, 'user': 'uer02'}]
+ []
+2021-05-13 19:02:53,178 - test - DEBUG --------- [{'id': 2, 'user': 'uer01'}, {'id': 3, 'user': 'uer01'}, {'id': 4, 'user': 'uer02'}, {'id': 5, 'user': 'uer02'}, {'id': 6, 'user': 'uer02'}, {'id': 7, 'user': 'uer02'}, {'id': 8, 'user': 'uer02'}, {'id': 9, 'user': 'uer02'}]
+ [{'id': 5, 'user': 'uer02'}, {'id': 6, 'user': 'uer02'}]
+2021-05-13 19:03:32,482 - test - DEBUG --------- [{'id': 2, 'user': 'uer01'}, {'id': 3, 'user': 'uer01'}, {'id': 4, 'user': 'uer02'}, {'id': 5, 'user': 'uer02'}, {'id': 6, 'user': 'uer02'}, {'id': 7, 'user': 'uer02'}, {'id': 8, 'user': 'uer02'}, {'id': 9, 'user': 'uer02'}]
+ [{'id': 2, 'user': 'uer01'}, {'id': 3, 'user': 'uer01'}]
+2021-05-13 19:04:18,478 - test - DEBUG --------- [{'id': 2, 'user': 'uer01'}, {'id': 3, 'user': 'uer01'}, {'id': 4, 'user': 'uer02'}, {'id': 5, 'user': 'uer02'}, {'id': 6, 'user': 'uer02'}, {'id': 7, 'user': 'uer02'}, {'id': 8, 'user': 'uer02'}, {'id': 9, 'user': 'uer02'}]
+ [{'id': 2, 'user': 'uer01'}, {'id': 3, 'user': 'uer01'}]
+2021-05-13 19:10:33,615 - test - DEBUG --------- [{'id': 2, 'user': 'uer01'}, {'id': 3, 'user': 'uer01'}, {'id': 4, 'user': 'uer02'}, {'id': 5, 'user': 'uer02'}, {'id': 6, 'user': 'uer02'}, {'id': 7, 'user': 'uer02'}, {'id': 8, 'user': 'uer02'}, {'id': 9, 'user': 'uer02'}]
+ [{'id': 2, 'user': 'uer01'}, {'id': 3, 'user': 'uer01'}]
+2021-05-13 19:50:07,060 - test - DEBUG --------- 13 
+ slice(0, 2, None)
+2021-05-13 19:52:23,989 - test - DEBUG --------- 13 
+ slice(0, 2, None)
+2021-05-13 19:53:08,886 - test - DEBUG --------- 13 
+ slice(0, 2, 1)
+2021-05-13 19:53:41,203 - test - DEBUG --------- 1 - 3  [{'id': 2, 'user': 'uer01'}, {'id': 3, 'user': 'uer01'}]
+2021-05-13 19:56:19,323 - test - DEBUG --------- 1 - 3 --- [{'id': 2, 'user': 'uer01'}, {'id': 3, 'user': 'uer01'}, {'id': 4, 'user': 'uer02'}]
+2021-05-13 19:57:56,200 - test - DEBUG --------- 1 - 3 --- [{'id': 2, 'user': 'uer01'}, {'id': 3, 'user': 'uer01'}, {'id': 4, 'user': 'uer02'}]
+2021-05-13 19:59:56,345 - test - DEBUG --------- 1 - 3 --- [{'id': 2, 'user': 'uer01'}, {'id': 3, 'user': 'uer01'}, {'id': 4, 'user': 'uer02'}]
+2021-05-13 20:14:36,510 - test - DEBUG --------- delete user success , mes: <User 7 uer02 []>
+2021-05-13 20:19:12,543 - test - DEBUG --------- delete user success , mes: <User 8 uer02 []>
+2021-05-13 20:23:50,768 - test - DEBUG --------- delete user success , mes: <User 9 uer02 []>
